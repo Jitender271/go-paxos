@@ -230,4 +230,5 @@ func main() {
 		}
 	}
 	stateMachine.DisplayState()
+
 }
